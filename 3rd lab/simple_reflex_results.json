@@ -1,0 +1,6 @@
+{
+    "Living Room": {"action": "Turn on heater"},
+    "Bedroom": {"action": "Heater remains off"},
+    "Kitchen": {"action": "Turn off heater"},
+    "Bathroom": {"action": "Heater remains on"}
+}
